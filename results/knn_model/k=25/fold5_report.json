@@ -1,0 +1,1 @@
+{"ROC-AUC": 0.7800596297614809, "Precision-Recall": 0.7599405049047145, "MCC": 0.45119199701826107, "Sensitivity": 0.6886792452830188, "Specificity": 0.7613207547169811, "Accuracy": 0.725, "Balanced Accuracy": 0.725, "Precision": 0.7426246185147508, "theta": 0.56}
